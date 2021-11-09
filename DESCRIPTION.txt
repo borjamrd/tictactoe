@@ -1,0 +1,29 @@
+tengo 9 celdas, cada una con un botón.
+Cada botón estará vacío por defecto. 
+Comienza el jugador 1.
+Cuando el jugador 1 (player-1) haga click sobre cualquier botón, el valor del mismo cambiará a una X.
+Se activa el jugador 2.
+Cuando el jugador 2 (player-2) haga click sobbre cualquier botón, el valor del mismo cambiará a una Y.
+
+Las combinaciones ganadoras son:
+
+/* 
+Combinaciones ganadoras
+
+[0,1,2]
+[2,1,0]
+[3,4,5]
+[5,4,3]
+[6,7,8]
+[8,7,6]
+[0,3,6]
+[6,3,0]
+[1,4,7]
+[7,4,1]
+[2,5,8]
+[8,5,2]
+[0,4,8]
+[8,4,2]
+[6,4,2]
+[2,4,6]
+ */
