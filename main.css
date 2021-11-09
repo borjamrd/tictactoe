@@ -1,0 +1,19 @@
+body {
+    margin: 0% 5%;
+}
+.section-game {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
+.cell {
+  background-color: aquamarine;
+  height: 100px;
+  padding: 5%;
+}
+.space{
+  height: 80%;
+  width: 80%;
+  font-size: 40px;
+}
+
