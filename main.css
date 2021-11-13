@@ -19,3 +19,8 @@ body {
   color: white;
   background-color: black;
 }
+.newGame {
+  margin: 5%;
+  padding:  5%;
+  background-color: burlywood;
+}
