@@ -4,14 +4,14 @@ body {
 .section-game {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 20px;
+  gap: 20pplayerX;
 }
 .cell {
   background-color: aquamarine;
-  height: 100px;
+  height: 100pplayerX;
   padding: 5%;
 }
-.spaceX, .spaceY{
+.spaceplayerX, .spaceY{
   height: 100%;
   width: 100%;
 }
